@@ -25,7 +25,7 @@ __metadata:
 
 "@jabberwocky-labs/tsconfig@https://github.com/jabberwocky-labs/tsconfig":
   version: 0.0.1
-  resolution: "@jabberwocky-labs/tsconfig@https://github.com/jabberwocky-labs/tsconfig.git#commit=5b3813f3de938ab80e5fd1080dee5f2fd285046a"
+  resolution: "@jabberwocky-labs/tsconfig@https://github.com/jabberwocky-labs/tsconfig.git#commit=3a3aa578249eee06a31dfac6c9f3d28d2e28a936"
   checksum: bb1be86c305fca321f635559319bfc4f4f032c967fbd51a4f6d554234df96f8475f9d7cf0fbe5ffd48ffc638a58616d4ff0ca9e991bdb607d5855560d38d9bac
   languageName: node
   linkType: hard

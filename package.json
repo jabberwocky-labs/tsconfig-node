@@ -11,8 +11,8 @@
         "deps": "yarn upgrade-interactive"
     },
     "dependencies": {
-        "@types/node": "18.11.18",
-        "@jabberwocky-labs/tsconfig": "https://github.com/jabberwocky-labs/tsconfig"
+        "@jabberwocky-labs/tsconfig": "https://github.com/jabberwocky-labs/tsconfig",
+        "@types/node": "18.11.18"
     },
     "devDependencies": {
         "@jabberwocky-labs/prettier-config": "https://github.com/jabberwocky-labs/prettier-config",
