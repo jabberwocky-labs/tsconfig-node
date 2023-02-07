@@ -1,0 +1,6 @@
+{
+    "extends": "@jabberwocky-labs/tsconfig/index.json",
+    "compilerOptions": {
+        "types": ["node", "jest"]
+    }
+}

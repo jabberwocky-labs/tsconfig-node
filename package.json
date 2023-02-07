@@ -1,0 +1,45 @@
+{
+    "name": "@jabberwocky-labs/tsconfig-node",
+    "version": "0.0.1",
+    "license": "MIT",
+    "sideEffects": false,
+    "main": "index.json",
+    "prettier": "@jabberwocky-labs/prettier-config",
+    "files": [],
+    "scripts": {
+        "format": "yarn prettier . --write",
+        "deps": "yarn upgrade-interactive"
+    },
+    "dependencies": {
+        "@types/node": "18.11.18"
+    },
+    "devDependencies": {
+        "@jabberwocky-labs/prettier-config": "https://github.com/jabberwocky-labs/prettier-config",
+        "@jabberwocky-labs/tsconfig": "https://github.com/jabberwocky-labs/tsconfig",
+        "prettier": "2.8.3"
+    },
+    "packageManager": "yarn@3.3.1",
+    "repository": "github:@jabberwocky-labs/tsconfig-node",
+    "homepage": "https://github.com/jabberwocky-labs/tsconfig-node#readme",
+    "keywords": [
+        "node",
+        "tsconfig",
+        "jabberwocky",
+        "jabberwocky-db",
+        "typescript"
+    ],
+    "author": {
+        "name": "Zachary Raineri",
+        "email": "zach@jabberwockylabs.com"
+    },
+    "contributors": [
+        {
+            "name": "Zachary Raineri",
+            "email": "zach@jabberwockylabs.com"
+        }
+    ],
+    "bugs": {
+        "url": "https://github.com/jabberwocky-labs/tsconfig-node/issues",
+        "email": "zach@jabberwockylabs.com"
+    }
+}
